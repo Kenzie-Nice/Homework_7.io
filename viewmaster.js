@@ -10,8 +10,7 @@ class PhotoSlide {
 
 const slides = [
     new PhotoSlide("Freedom", "141104-berlin-wall-neely-cover.jpg", "Piece of berlin wall getting torn down", "Dorothea Lange", "1989"),
-    //new PhotoSlide("Flag", "01_VIME4375-1989CL12.jpg", "Piece of berlin wall getting torn down", "Dorothea Lange", "1989"),
-    new PhotoSlide("Freedom", "030-56a040383df78cafdaa0adf6.jpg", "Piece of berlin wall getting torn down", "Dorothea Lange", "1989"),
+    new PhotoSlide("Freedom", "xxberlin-wall-archive-videoSixteenByNineJumbo1600.jpg", "Piece of berlin wall getting torn down", "Dorothea Lange", "1989"),
     new PhotoSlide("Broken", "The-first-section-of-the-Berlin-Wall-was-torn-down-by-crowds-on-the-morning-of-November-10th-1989-530033.jpg", "Berlin Wall", "Unknown", "1989")
 ];
 
