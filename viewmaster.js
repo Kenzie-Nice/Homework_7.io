@@ -32,6 +32,3 @@ function displayRandomImage() {
     document.getElementById("author").textContent = slide.author;
     document.getElementById("year").textContent = slide.year;
 }
-
-// Ensure preloadImages is called on load
-window.onload = preloadImages;
