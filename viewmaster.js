@@ -9,11 +9,11 @@ class PhotoSlide {
 }
 
 const slides = [
-    new PhotoSlide("Freedom", "141104-berlin-wall-neely-cover.jpg", "An iconic photo of the Great Depression.", "Dorothea Lange", "1936"),
-    new PhotoSlide("Broken", "The-first-section-of-the-Berlin-Wall-was-torn-down-by-crowds-on-the-morning-of-November-10th-1989-530033.jpg", "A single protester stands before a column of tanks in Tiananmen Square.", "Unknown", "1989"),
-    new PhotoSlide("Spray", "xxberlin-wall-archive-videoSixteenByNineJumbo1600.jpg", "Unknown", "2016"),
-    new PhotoSlide("Black Lives Matter Protest", "blm_protest.jpg", "A powerful moment from a BLM protest.", "John Doe", "2020"),
-    new PhotoSlide("Afghan Girl", "afghan_girl.jpg", "A striking portrait of a refugee.", "Steve McCurry", "1984")
+    new PhotoSlide("Freedom", "141104-berlin-wall-neely-cover.jpg", "Piece of berlin wall getting torn down", "Dorothea Lange", "1989"),
+    new PhotoSlide("Broken", "The-first-section-of-the-Berlin-Wall-was-torn-down-by-crowds-on-the-morning-of-November-10th-1989-530033.jpg", "Berlin Wall", "Unknown", "1989"),
+    new PhotoSlide("Spray", "xxberlin-wall-archive-videoSixteenByNineJumbo1600.jpg", "Unknown", "1989"),
+    new PhotoSlide("Stand", "030-56a040383df78cafdaa0adf6.jpg", "The famous Tank-man photo, taken during the Tiananmen protests ""John Doe", "1989"),
+    new PhotoSlide("Flag", "01_VIME4375-1989CL12.jpg" " Someone holds a red and gold flag as the winds rip by at the Tiananmen protests""Jhon doe","" "1989")
 ];
 
 function preloadImages() {
